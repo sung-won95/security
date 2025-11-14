@@ -1,0 +1,39 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Build output
+build/
+target/
+.gradle/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle
+gradle-wrapper.jar
+
+# Logs
+*.log
+
+# Test
+.pytest_cache/
+.coverage
+
+# Documentation
+README.md
+docs/
+
+# CI/CD
+.github/
+buildspec.yml
